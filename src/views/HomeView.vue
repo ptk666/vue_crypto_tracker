@@ -29,10 +29,10 @@
       </div>
       <div>
         <p class="text-xs lg:text-sm 2xl:text-2xl text-gray-600">Product</p>
-        <ul class="text-sm lg:text-base 2xl:text-3xl mt-1 md:flex md:gap-2 cursor-pointer">
-          <li>Watch</li>
-          <li>Features</li>
-          <li>Feedback</li>
+        <ul class="text-sm lg:text-base 2xl:text-3xl mt-1 md:gap-2 cursor-pointer">
+          <li><a href="#watch">Watch</a></li>
+          <li><a href="#features">Features</a></li>
+          <li><a href="#feedback">Feedback</a></li>
         </ul>
       </div>
     </div>
@@ -74,7 +74,6 @@ const getMarketCoin = async () => {
 
     .catch((err) => {
       console.log(err);
-      console.log(coin_item.value);
     })
 }
 

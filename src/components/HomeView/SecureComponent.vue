@@ -1,5 +1,5 @@
 <template>
-  <div class="p-5 lg:px-16 2xl:px-20 md:py-16 lg:py-32 2xl:py-60 bg-black text-white">
+  <div id="features" class="p-5 lg:px-16 2xl:px-20 md:py-16 lg:py-32 2xl:py-60 bg-black text-white">
     <div class="grid grid-cols-1 md:grid-cols-2 grid-rows-2 md:grid-rows-1 mt-10">
       <div class="md:flex md:flex-col md:justify-center">
         <p class="text-xs lg:text-md 2xl:text-xl text-blue-500">Watch</p>
