@@ -7,7 +7,7 @@
         <button class="text-blue-600 lg:text-base 2xl:text-2xl">Feedback on App Store ></button>
         <button class="mt-2 lg:mt-0 lg:ml-10 text-blue-600 lg:text-base 2xl:text-2xl">Feedback on Play Store ></button>
       </div>
-       <img class="mt-5" src="/assets/svg/testimonials.svg" alt="">
+       <img class="mt-5" src="https://raw.githubusercontent.com/ptk666/vue_crypto_tracker/fbd95febe6f113fead451cdc3699d56a58343aeb/public/assets/svg/testimonials.svg" alt="">
     </div>
   </div>
 </template>

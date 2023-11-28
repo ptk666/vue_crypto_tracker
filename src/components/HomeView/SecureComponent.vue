@@ -9,18 +9,18 @@
         </div>
         <div class="mt-3 lg:mt-5 xl:mt-7 2xl:mt-10 text-gray-300">
           <div class="flex items-start">
-            <img class="w-3 lg:w-6 2xl:w-8 mr-2 2xl:mr-5"  src="/assets/svg/rocket.svg" alt="rocket">
+            <img class="w-3 lg:w-6 2xl:w-8 mr-2 2xl:mr-5"  src="https://raw.githubusercontent.com/ptk666/vue_crypto_tracker/fbd95febe6f113fead451cdc3699d56a58343aeb/public/assets/svg/rocket.svg" alt="rocket">
             <p class="text-xs lg:text-base 2xl:text-3xl">Never miss a coin's move again!</p>
           </div>
           <div class="flex items-start mt-1 lg:mt-2 2xl:mt-4">
-            <img class="w-3 lg:w-6 2xl:w-8 mr-2 2xl:mr-5" src="/assets/svg/shield.svg" alt="shield">
+            <img class="w-3 lg:w-6 2xl:w-8 mr-2 2xl:mr-5" src="https://raw.githubusercontent.com/ptk666/vue_crypto_tracker/fbd95febe6f113fead451cdc3699d56a58343aeb/public/assets/svg/shield.svg" alt="shield">
             <p class="text-xs lg:text-base 2xl:text-3xl">Provided updates for your journey</p>
           </div>
         </div>
       </div>
       <div class="flex-1 md:justify-end items-center">
         <div class="rounded-lg xl:rounded-full bg-zinc-900 h-full overflow-hidden flex justify-center lg:items-center">
-          <img class="w-60 lg:w-60 2xl:w-96 p-5 2xl:py-20" src="/assets/svg/portfolio1.svg" alt="">
+          <img class="w-60 lg:w-60 2xl:w-96 p-5 2xl:py-20" src="https://raw.githubusercontent.com/ptk666/vue_crypto_tracker/fbd95febe6f113fead451cdc3699d56a58343aeb/public/assets/svg/portfolio1.svg " alt="">
         </div>
       </div>
     </div>
@@ -33,18 +33,18 @@
         </div>
         <div class="mt-3 lg:mt-5 xl:mt-7 2xl:mt-10 text-gray-300">
           <div class="flex items-start">
-            <img class="w-3 lg:w-6 2xl:w-8 mr-2 2xl:mr-5" src="/assets/svg/lock.svg" alt="rocket">
+            <img class="w-3 lg:w-6 2xl:w-8 mr-2 2xl:mr-5" src="https://raw.githubusercontent.com/ptk666/vue_crypto_tracker/fbd95febe6f113fead451cdc3699d56a58343aeb/public/assets/svg/lock.svg" alt="rocket">
             <p class="text-xs lg:text-base 2xl:text-3xl">Secure & Safe</p>
           </div>
           <div class="flex items-start mt-1 lg:mt-2 2xl:mt-4">
-            <img class="w-3 lg:w-6 2xl:w-8 mr-2 2xl:mr-5" src="/assets/svg/buy.svg" alt="shield">
+            <img class="w-3 lg:w-6 2xl:w-8 mr-2 2xl:mr-5" src="https://raw.githubusercontent.com/ptk666/vue_crypto_tracker/fbd95febe6f113fead451cdc3699d56a58343aeb/public/assets/svg/buy.svg" alt="shield">
             <p class="text-xs lg:text-base 2xl:text-3xl">Buy low, sell high</p>
           </div>
         </div>
       </div>
       <div class="flex-1 md:justify-end items-center md:order-first order-last">
         <div class="rounded-lg xl:rounded-full bg-zinc-900 h-full overflow-hidden flex justify-center">
-          <img class="w-48 lg:w-60 2xl:w-96 p-5 2xl:py-16" src="/assets/svg/p2p.svg" alt="">
+          <img class="w-48 lg:w-60 2xl:w-96 p-5 2xl:py-16" src="https://raw.githubusercontent.com/ptk666/vue_crypto_tracker/fbd95febe6f113fead451cdc3699d56a58343aeb/public/assets/svg/p2p.svg" alt="">
         </div>
       </div>      
     </div>
